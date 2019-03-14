@@ -12,7 +12,7 @@ IPAddress gateway(172, 15, 200, 1);
 // the subnet:
 IPAddress subnet(255, 255, 255, 0);
  
-Twitter twitter("708993901676265472-Tpv9nfMPfoHAXugU2JTCmJz4LL3eMni");
+Twitter twitter("PASTE_YOUR_TWITTER_API");
 int x =0;
 int y = 0;
 void setup()
